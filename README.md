@@ -11,7 +11,7 @@
 	<p>Greetings everyone, hope you all doing good. I would like to take this opportunity to tell you about myself. I live in India, specifically in Chennai. Currently, I am a student of Alpha Arts and Science College, pursuing my higher education.</p>
 	<p>As for my personality, I would rather let my actions speak louder than my words. However, if I were to describe myself in a few words, I would say that I am a hardworking and determined individual who always strives to achieve his goals. I am also a good listener and believe in treating everyone with respect and kindness.</p>
      
-      <h2>BE NICE TO ALL <3 </h2>
+      BE NICE TO ALL <3 
 <br/>
 <br/>
 <br/>
