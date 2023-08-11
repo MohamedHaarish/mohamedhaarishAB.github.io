@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<title>Autobiography of Mohamed Haarish I</title>
+	Autobiography of Mohamed Haarish I
 </head>
 <body>
 	<h1>Autobiography of Mohamed Haarish I</h1>
